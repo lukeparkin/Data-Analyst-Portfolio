@@ -35,5 +35,3 @@ This project analyses the user journey on the Cool T-Shirts website, tracking co
 - Time to purchase trends
 
 This project mimics real marketing/analytics work in e-commerce. Open to feedback – Connect on [LinkedIn](https://www.linkedin.com/in/lukeparkin1/)!
-
-Thanks for visiting! 🚀
