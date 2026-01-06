@@ -1,9 +1,9 @@
-# Data-Analyst-Portfolio
-Welcome to my Data Analyst Portfolio!
+# Data-Scientist-Portfolio
+Welcome to my Data Scientist Portfolio!
 
-I'm an aspiring Data Analyst based in London, passionate about transforming data into actionable business insights. This repository showcases my hands-on projects demonstrating key skills including:
+I'm an aspiring Data Scientist based in London, passionate about transforming data into actionable business insights. This repository showcases my hands-on projects demonstrating key skills including:
 
-- **Data Cleaning & Transformation** (SQL, Python/Pandas)
+- **Data Cleaning & Transformation** (SQL, Python)
 - **Exploratory Data Analysis** (EDA)
 - **Data Visualization** (Power BI, LookerStudio, Matplotlib, Seaborn, Scikit-learn)
 
@@ -19,6 +19,6 @@ I'm an aspiring Data Analyst based in London, passionate about transforming data
 ### About Me
 - Learning through self-study, online courses, and real-world datasets (Kaggle, UK open data).
 - Targeting entry-level/junior Data Analyst roles.
-- Currently Strengthening: SQL, Excel, Python (Pandas, NumPy), Power BI and Statistics.
+- Currently Strengthening: SQL, Excel, Python, Power BI and Statistics.
 - Always open to feedback - feel free to open an issue or connect on [LinkedIn](https://www.linkedin.com/in/lukeparkin1/)!
 
