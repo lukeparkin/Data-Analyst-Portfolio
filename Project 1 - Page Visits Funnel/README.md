@@ -29,7 +29,7 @@ This project analyses the user journey on the Cool T-Shirts website, tracking co
 3. Outputs: Merged funnel data, drop-off rates, average purchase time.
 
 ## Dashboard
-[Link]()
+[Link](https://github.com/lukeparkin/Data-Scientist-Portfolio/blob/43629e6e68b02e558918750992394208a971baae/Project%201%20-%20Page%20Visits%20Funnel/Report%20Image/Page%20Visit%20Analysis.jpg)
 - Funnel visualisation
 - Drop-off % by stage
 - Time to purchase trends
