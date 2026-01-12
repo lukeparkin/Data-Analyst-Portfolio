@@ -15,7 +15,7 @@ I'm an aspiring Data Scientist based in London, passionate about transforming da
 | [Customer Segmentation](https://github.com/lukeparkin/Data-Analyst-Portfolio/tree/05d6983d4f5361484b0f44005fe33de62771f18e/Project%202%20-%20Customer%20Segmentation) | Python (Pandas, NumPy, Matplotlib, Seaborn) |  Performs in-depth customer segmentation analysis to understand customer shopping behaviour by combining demographic information with spending patterns to identify distinc behavioural segment | Data Cleaning and EDA, Feature Engineering, Advanced Groupby Aggregations, Data Visualisation, Business interpretation from Data Insights | N/a
 | [Exploring the Relationship Between GDP and Life Expectancy](https://github.com/lukeparkin/Data-Scientist-Portfolio/tree/03a4fb7574ab61726b383cc1db004bdb939c7bd8/Project%203%20-%20The%20Relationship%20Between%20GDP%20and%20Life%20Expectancy) | Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), EDA |  This project analyses GDP and life expectancy trends across six countries between 2000 & 2015, revealing strong correlations between economic growth and health outcomes, with visualizations and statistical tests demonstrating the impact of development on longevity. | Data Cleaning and EDA, Feature Engineering, Advanced Groupby Aggregations, Statistical Hypothesis Testing, Data Visualisation, Interpretation of Results & Insight Generation | Coming Soon
 
-*(I'll update this table as I complete more projects!)*
+*(I'm constantly updating this table as I complete more projects, please check for updates if projects are incomplete or reach out to me if you want further insight!)*
 
 ### About Me
 - Learning through self-study, online courses, and real-world datasets (Kaggle, UK open data, WHO, World Bank).
