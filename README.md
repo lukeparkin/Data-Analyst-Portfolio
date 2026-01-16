@@ -1,4 +1,4 @@
-# Analyst-Portfolio
+# Analyst Portfolio
 Welcome to my Analyst Portfolio!
 
 I'm an aspiring Data Scientist/Analyst based in London, passionate about transforming data into actionable business insights. Currently, I am strengthening my skills in Python and SQL with a strong focus on ML. This repository showcases my hands-on projects demonstrating key skills including:
